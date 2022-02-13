@@ -1,4 +1,4 @@
 ### ¡Hola! 👋
 
-Me llamo Alex, soy español y estoy aprendiendo Java.
+Me llamo Alex, soy español y actualmente estoy aprendiendo Java.
 
